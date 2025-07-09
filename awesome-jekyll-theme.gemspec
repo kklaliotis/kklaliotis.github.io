@@ -3,13 +3,13 @@
 require_relative 'lib/awesome-jekyll-theme/version'
 
 Gem::Specification.new do |spec|
-  spec.name = 'awesome-jekyll-theme'
+  spec.name = 'Katherine Laliotis'
   spec.version       = AwesomeJekyllTheme::VERSION
   spec.authors       = ['a-chacon']
-  spec.email         = ['andres.ch@protonmail.com']
+  spec.email         = ['kklaliotis@gmail.com']
 
-  spec.summary       = 'A clean, versatile Jekyll theme with minimalist design and robust features. Ideal for portfolios, blogs, and project showcases with responsive layouts and easy customization.'
-  spec.homepage      = 'https://github.com/a-chacon/awesome-jekyll-portfolio'
+  spec.summary       = 'PhD Candidate in Observational Cosmology | Science writer'
+  spec.homepage      = 'kklaliotis.github.io'
   spec.license       = 'MIT'
 
   spec.files         = `git ls-files -z`.split("\x0").select do |f|
