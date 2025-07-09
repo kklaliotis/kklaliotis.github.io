@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 title: AwesomeJT
 logo: /assets/images/logo.avif
 baseurl: /awesome-jekyll-theme
+=======
+title: Katherine-Laliotis
+logo: /assets/images/logo.avif
+baseurl: /kklaliotis
+>>>>>>> 29bc742733b3278829865f0c20e6b70e9b09d8d7
 
 ##
 # Typewritter configuration.
@@ -24,8 +30,13 @@ collections:
 ##
 contact_channels_section: true
 contact_channels:
+<<<<<<< HEAD
   # email: "example@example.cl"
   github: "https://github.com/a-chacon"
+=======
+  email: "laliotis.2@osu.edu"
+  github: "https://github.com/kklaliotis"
+>>>>>>> 29bc742733b3278829865f0c20e6b70e9b09d8d7
   # telegram: "https://t.me/"
   # stackoverflow: "https://stackoverflow.com"
   # discord: "https://discord.com/"

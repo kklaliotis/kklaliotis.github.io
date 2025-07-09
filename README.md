@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; height: 50px;">
 
 <a href="https://jekyll-themes.com/a-chacon/awesome-jekyll-theme">
@@ -212,3 +213,6 @@ To add a custom directory to your theme-gem, please edit the regexp in `awesome-
 ## License
 
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+=======
+
+>>>>>>> 29bc742733b3278829865f0c20e6b70e9b09d8d7
