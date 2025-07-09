@@ -24,7 +24,7 @@ collections:
 ##
 contact_channels_section: true
 contact_channels:
-   email: "laliotis.2@osu.edu"
+  email: "laliotis.2@osu.edu"
   github: "https://github.com/kklaliotis
   # telegram: "https://t.me/"
   # stackoverflow: "https://stackoverflow.com"
