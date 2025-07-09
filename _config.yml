@@ -1,4 +1,4 @@
-title: AwesomeJT
+title: KatherineLaliotis
 logo: /assets/images/logo.avif
 baseurl: /awesome-jekyll-theme
 
@@ -24,8 +24,8 @@ collections:
 ##
 contact_channels_section: true
 contact_channels:
-  # email: "example@example.cl"
-  github: "https://github.com/a-chacon"
+   email: "laliotis.2@osu.edu"
+  github: "https://github.com/kklaliotis
   # telegram: "https://t.me/"
   # stackoverflow: "https://stackoverflow.com"
   # discord: "https://discord.com/"
